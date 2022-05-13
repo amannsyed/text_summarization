@@ -5,7 +5,7 @@ export const articlePageLayout = /* html */ `
         <div class="col l6 m6 s12">
             <div class="input-field">
                 <i class="material-icons prefix">link</i>
-                <input name="url" id="icon_prefix" type="text" autocomplete="off" placeholder="https://www.theatlantic.com/health/archive/2020/12/covid-19-sleep-pandemic-zzzz/617454/">
+                <input name="url" id="icon_prefix" type="text" autocomplete="off" placeholder="Input your link here">
                 <label for="icon_prefix">URL</label>
             </div>
         </div>
